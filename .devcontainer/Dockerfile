@@ -38,6 +38,7 @@ RUN pip3 install --upgrade pip
 RUN pip3 install --no-cache-dir \
     opencv-python \
     ipython \
+    pytorch-lightning \
     #scikit-learn \
     #matplotlib \
     #pandas \
